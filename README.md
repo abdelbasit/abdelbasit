@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Ahmed Abdelbasit
+- 😅 I'm a commuication engineering student. I had my bachelor's degree from German University in Cairo in 2019, and my master's degree from Ulm univeritsy in Germany.
+- 👀 I'm interested in mobile communication and programming and their intersection. 
+- 🌱 I’m currently learning deep learning and its applications on radio optimization.
+- 📫 You can reach me using my email ahmedabdelbasit513@gmail.com
